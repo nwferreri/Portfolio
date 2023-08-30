@@ -1,5 +1,5 @@
 # Portfolio
-A portfolio showcasing my projects.
+A portfolio showcasing my Python, Data Science, and Machine Learning projects.
 
 ## Major Projects
 
