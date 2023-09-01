@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio: Nick Wildason-Ferreri
 A portfolio showcasing my Python, Data Science, and Machine Learning projects.
 
 ## Major Projects
