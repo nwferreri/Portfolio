@@ -6,3 +6,4 @@ A portfolio showcasing my Python, Data Science, and Machine Learning projects.
 ## Minor Projects
 * [JPG to PNG Converter](https://github.com/nwferreri/JPG-to-PNG-converter) - Converts JPGs to PNGs using `PIL`
 * [PDF Tools](https://github.com/nwferreri/PDF-tools) - A collection of tools to rotate, combine, and add watermarks to PDFs using `pypdf`
+* [Email Sender](https://github.com/nwferreri/email-sender) - Send emails using Python.  Email body is written in HTML file.
