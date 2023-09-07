@@ -9,3 +9,4 @@ A portfolio showcasing my Python, Data Science, and Machine Learning projects.
 * [Email Sender](https://github.com/nwferreri/email-sender) - Send emails using Python.  Email body is written in HTML file.
 * [Password Checker](https://github.com/nwferreri/password-checker) - Securely checks passwords by hashing them and running them through the [Have I been pwned? Password Checker](https://haveibeenpwned.com/Passwords) API.
 * [Hacker News Scraper](https://github.com/nwferreri/hacker-news-scraper) - Scrapes [Hacker News](https://news.ycombinator.com/news) for the top stories.  Uses [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) to parse html.
+* [FIFA 2019 Exploratory Data Analysis](https://github.com/nwferreri/fifa19-eda) - Used Jupyter Notebook to explore the FIFA 2019 soccer player data.
