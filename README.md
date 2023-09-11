@@ -7,7 +7,7 @@ A portfolio showcasing my Python, Data Science & Analytics, and Machine Learning
 
 ### Data Science & Analytics
 * [Matching](https://github.com/nwferreri/matching) - Use matching techniques to compare standardized test scores of Catholic school vs public school students.
-* [Google Causal Impact](https://github.com/nwferreri/google-causal-impact) - Use Google Causal Impact to determine effect of 2015 CO2 scandal on Volkswagen stock price.
+* [Google Causal Impact](https://github.com/nwferreri/google-causal-impact) - Use Google Causal Impact to determine effect of 2015 CO<sub>2</sub> scandal on Volkswagen stock price.
 * [Logistic Regression](https://github.com/nwferreri/logistic-regression) - Use logistic regression to predict Titanic survivors.
 * [Multilinear Regression](https://github.com/nwferreri/multilinear-regression) - Use multilinear regression to determine most relevant predictor of store sales.
 * [FIFA 2019 Exploratory Data Analysis](https://github.com/nwferreri/fifa19-eda) - Used Jupyter Notebook to explore FIFA 2019 soccer player data.
