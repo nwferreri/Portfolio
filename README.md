@@ -15,6 +15,7 @@ A portfolio showcasing my Python, Data Science & Analytics, and Machine Learning
 * [FIFA 2019 Exploratory Data Analysis](https://github.com/nwferreri/fifa19-eda) - Used Jupyter Notebook to explore FIFA 2019 soccer player data.
 
 ### Machine Learning
+* [Predicive Analytics: RFR](https://github.com/nwferreri/predictive-analytics-RFR) - Predicting customer income using a Random Forest Regressor model.
 * [Machine Learning: Iris Dataset](https://github.com/nwferreri/ml-iris) - Classic Iris species prediction machine learning project.
 
 ### Python
