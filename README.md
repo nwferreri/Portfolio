@@ -6,8 +6,8 @@ A portfolio showcasing my Python, Data Science & Analytics, and Machine Learning
 ## Minor Projects
 
 ### Data Science & Analytics
-* [Segmentation - GMM](https://github.com/nwferreri/segmentation-gmm) - Clustering segmentation using a Gaussian Mixture Model on credit card customer data.
-* [Segmentation - RFM](https://github.com/nwferreri/segmentation-rfm) - Value-based Recency, Frequency, Monetary segmentation on customer purchase data.
+* [Segmentation: GMM](https://github.com/nwferreri/segmentation-gmm) - Clustering segmentation using a Gaussian Mixture Model on credit card customer data.
+* [Segmentation: RFM](https://github.com/nwferreri/segmentation-rfm) - Value-based Recency, Frequency, Monetary segmentation on customer purchase data.
 * [Matching](https://github.com/nwferreri/matching) - Use matching techniques to compare standardized test scores of Catholic school vs public school students.
 * [Google Causal Impact](https://github.com/nwferreri/google-causal-impact) - Use Google Causal Impact to determine effect of 2015 CO<sub>2</sub> scandal on Volkswagen stock price.
 * [Logistic Regression](https://github.com/nwferreri/logistic-regression) - Use logistic regression to predict Titanic survivors.
