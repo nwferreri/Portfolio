@@ -2,9 +2,9 @@
 A portfolio showcasing my Python, Data Science & Analytics, and Machine Learning projects.
 
 ## Major Projects
+* [Airbnb Forecasting Product](https://github.com/nwferreri/airbnb-forecasting) - Ensemble model to predict Airbnb demand in New York state for the next month.
 
 ## Minor Projects
-
 ### Data Science & Analytics
 * [Segmentation: GMM](https://github.com/nwferreri/segmentation-gmm) - Clustering segmentation using a Gaussian Mixture Model on credit card customer data.
 * [Segmentation: RFM](https://github.com/nwferreri/segmentation-rfm) - Value-based Recency, Frequency, Monetary segmentation on customer purchase data.
