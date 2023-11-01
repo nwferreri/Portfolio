@@ -2,6 +2,7 @@
 A portfolio showcasing my Python, Data Science & Analytics, and Machine Learning projects.
 
 ## Major Projects
+* [Bulldozer Price Prediction](https://github.com/nwferreri/bulldozer-price-prediction) - Machine learning model that predicts bulldozer sale price based on time-series data.
 * [Heart Disease Classification](https://github.com/nwferreri/heart-disease-classification) - Machine learning model that predicts if a patient has heart disease.
 * [Airbnb Forecasting Product](https://github.com/nwferreri/airbnb-forecasting) - Ensemble model to predict Airbnb demand in New York state for the next month.
 
