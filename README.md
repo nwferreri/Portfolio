@@ -4,6 +4,7 @@ A portfolio showcasing my Python, Data Science & Analytics, and Machine Learning
 Certificates for the courses I've completed so far can be found [here](https://github.com/nwferreri/Portfolio/tree/main/Certificates).
 
 ## Major Projects
+* [Excel Personal Budget Project](https://github.com/nwferreri/excel-budget-project) - Leverages several Excel tools (fomulae, visualizations, VBA macros, pivot tables) to provide insights into personal finance.
 * [Dog Breed Image Classification](https://github.com/nwferreri/dog-breed-image-classification) - Machine learning model that uses deep/transfer learning and Tensorflow to predict a dog's breed based on an image.
 * [Bulldozer Price Prediction](https://github.com/nwferreri/bulldozer-price-prediction) - Machine learning model that predicts bulldozer sale price based on time-series data.
 * [Heart Disease Classification](https://github.com/nwferreri/heart-disease-classification) - Machine learning model that predicts if a patient has heart disease.
