@@ -1,5 +1,5 @@
 # Portfolio: Nick Wildason-Ferreri
-A showcase of some of the Data Science/Analytics projects I've completed as I work to transition into the field.
+Welcome to my portfolio! Here I will showcase some of the Data Science/Analytics projects I've completed as I work to transition into the field.
 
 Certificates for the courses I've completed as part of my Data Science program can be found [here](https://github.com/nwferreri/Portfolio/tree/main/Certificates).
 
@@ -47,7 +47,17 @@ Next I chose 4 models to use: Prophet, SARIMAX, LinkedIn Silverkite, and LSTM. I
 With these trained models, Airbnb can predict future demand and prepare accordingly, confident that their decisions are driven by data.
 
 ## [Bulldozer Price Prediction](https://github.com/nwferreri/bulldozer-price-prediction)
-Machine learning model that predicts bulldozer sale price based on time-series data.
+In this project, I used time-series data on bulldozer sales and characteristics to build a machine learning model to predict the sale price of a bulldozer.
+
+The data had a large number of missing and non-numerical values that needed to be addressed in order to run a regression machine learning model. I filled missing numerical values of each column with the column's median to avoid any effects outliers may have had on the mean. For the non-numerical columns, I converted them into pandas categories and then converted those to numbers using the category codes and incremented them by 1 to remove the missing values. Finally, the data was split into training and validation sets.
+
+With the data prepared, I trained and tuned the initial models on a subset of the data to speed up the testing phase. Then I extracted the best parameters and trained the full model. The test data was preprocessed using the same pipeline as the training/validation sets and used to make a set of predictions.
+
+I also extracted and visualized the feature importances of the model, with the goal of generating some valuable conclusions from the model.
+
+![image](https://github.com/nwferreri/bulldozer-price-prediction/assets/112211174/422f1924-b350-415e-8282-6d7318697b20)
+
+This showed that the two best indicators for predicting the price of a bulldozer are its size and the year it was made.
 
 ## [Dog Breed Image Classification using TensorFlow](https://github.com/nwferreri/dog-breed-image-classification)
 Machine learning model that uses deep/transfer learning and TensorFlow to predict a dog's breed based on an image.
