@@ -5,6 +5,7 @@ Certificates for the courses I've completed as part of my Data Science program c
 
 Additional details can be found by following the link for each project.
 
+
 ## [Meal Kit Delivery Service Analysis using Power BI](https://github.com/nwferreri/meal-kit-delivery-powerbi)
 In this project, I used Power BI to combine, transform, and analyze data about the performance of a fictional meal kit delivery service.
 
@@ -20,6 +21,7 @@ The second dashboard is a drill-through from the Revenue by Division chart in th
 
 These dashboards give the company the tools it needs to assess performance and make data-driven decisions about the future.
 
+
 ## [Excel Personal Budget Project](https://github.com/nwferreri/excel-budget-project)
 In this project, I leverage several Excel tools (fomulae, visualizations, VBA macros, pivot tables) to provide insights into personal finance.
 
@@ -32,6 +34,7 @@ The Spending Summary sheet contains a Pivot Table that allows to user to see bre
 ![Screen Shot 2024-01-25 at 3 47 32 PM (2)](https://github.com/nwferreri/excel-budget-project/assets/112211174/192b6d55-f899-480c-970f-fbe6d695c6cc)
 
 These worksheets allow someone to gain a greater understanding of their personal finances and identify areas for optimization and improvement.
+
 
 ## [Airbnb Forecasting Product](https://github.com/nwferreri/airbnb-forecasting)
 In this project, I used time-series data about Airbnb demand in New York state to create a model to predict the demand for the next month.
@@ -59,11 +62,56 @@ I also extracted and visualized the feature importances of the model, with the g
 
 This showed that the two best indicators for predicting the price of a bulldozer are its size and the year it was made.
 
-## [Dog Breed Image Classification using TensorFlow](https://github.com/nwferreri/dog-breed-image-classification)
-Machine learning model that uses deep/transfer learning and TensorFlow to predict a dog's breed based on an image.
 
-## [Heart Disease Classification](https://github.com/nwferreri/heart-disease-classification)
-Machine learning model that predicts if a patient has heart disease.
+## [Dog Breed Image Classification using TensorFlow](https://github.com/nwferreri/dog-breed-image-classification)
+In this project, I used deep learning and transfer learning principles to build a multi-class machine learning model that can predict the breed of a dog based on an image.
+
+The data for this project contains images of dogs broken into training and testing sets of over 10,000 images each. There are 120 different breeds of dogs (classes) in the training data. I created a validation testing set from a subset of the training data.
+
+I created a pipeline to prepare the data for use in a machine learning model. It uses TensorFlow 2.0 to create tensor touples containing the image and its truth label (if it has one). Then I created batches of data to avoid memory issues later on.
+
+To build the model, I leveraged transfer learning by using the MobileNet V2 model, which is a model that has been trained to detect objects in images. With it, I used Keras to build a deep learning model and trained it on a subset of 1000 images. Then I used the model to make predictions on the validation data and visualized them, showing the image, the true and predicted labels, the top 10 prediction probabilities, and whether the model was correct or not. Evaluation of the model showed it had an accuracy of about 68%.
+
+![image](https://github.com/nwferreri/dog-breed-image-classification/assets/112211174/ceb08e6b-4c43-4957-8020-f198d82b0bdd)
+
+Next, the model was trained on the full data set and used to make predictions on the test data. I also created a pipeline to use the model on custom images. It returns the image and the predicted breed.
+
+![image](https://github.com/nwferreri/dog-breed-image-classification/assets/112211174/d6cf67c0-12dc-4ecd-9d92-2d6c9342f027)
+
+This pipeline could be incorporated into some kind of app, allowing users to upload their own images and get predictions.
+
 
 ## Other Projects
 If you'd like to see more projects, a full list can be found [here](https://github.com/nwferreri/all-projects).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
