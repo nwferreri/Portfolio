@@ -5,6 +5,13 @@ Certificates for the courses I've completed as part of my Data Science program c
 
 Additional details can be found by following the link for each project.
 
+## Table of Contents
+* [Meal Kit Delivery Service Analysis using Power BI](https://github.com/nwferreri/Portfolio?tab=readme-ov-file#meal-kit-delivery-service-analysis-using-power-bi)
+* [Excel Personal Budget Project](https://github.com/nwferreri/Portfolio?tab=readme-ov-file#excel-personal-budget-project)
+* [Airbnb Forecasting Product](https://github.com/nwferreri/Portfolio?tab=readme-ov-file#airbnb-forecasting-product)
+* [Bulldozer Price Prediction](https://github.com/nwferreri/Portfolio?tab=readme-ov-file#bulldozer-price-prediction)
+* [Dog Breed Image Classification using TensorFlow](https://github.com/nwferreri/Portfolio?tab=readme-ov-file#dog-breed-image-classification-using-tensorflow)
+* [Other Projects](https://github.com/nwferreri/Portfolio?tab=readme-ov-file#other-projects)
 
 ## [Meal Kit Delivery Service Analysis using Power BI](https://github.com/nwferreri/meal-kit-delivery-powerbi)
 In this project, I used Power BI to combine, transform, and analyze data about the performance of a fictional meal kit delivery service.
